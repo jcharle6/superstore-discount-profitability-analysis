@@ -8,6 +8,8 @@ This project is an end-to-end retail data analysis focused on identifying how ex
 
 Using Excel, SQL, and Tableau, the analysis explores sales trends, discount behavior, regional performance, and profit outcomes to uncover business risks and opportunities related to pricing strategy.
 
+link to tableau interactive dashboard is [here](https://public.tableau.com/app/profile/justin.hilaire/viz/SuperStoreDiscountanalysis/Dashboard1#1)
+
 ---
 
 ## Business Problem
@@ -79,3 +81,7 @@ Heavy discounting was concentrated within furniture products, particularly table
 | -------------- | -------------------------- |
 | Western Asia   | Significant negative sales |
 | Western Africa |                            |
+
+## Tableau Dashboard
+
+<img width="1838" height="768" alt="Dashboard 1 (4)" src="https://github.com/user-attachments/assets/9e4ad7bf-27ce-4fba-9207-bf106243874e" />
