@@ -83,5 +83,6 @@ Heavy discounting was concentrated within furniture products, particularly table
 | Western Africa | high sales, negative profit|
 
 ## Tableau Dashboard
-<img width="1838" height="768" alt="Dashboard 1 (4)" src="https://github.com/user-attachments/assets/ea99896a-c93c-42e5-bca8-adc82d4cf67d" />
+<img width="1838" height="768" alt="Dashboard 1 (5)" src="https://github.com/user-attachments/assets/f8d41f06-139c-4705-addc-97dfe934a785" />
+
 
